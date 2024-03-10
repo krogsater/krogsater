@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning backend development with boot.dev 
+- 👯 I’m looking to collaborate on https://trans.bible
+- 💬 Ask me about help to plan your workspace or home office. I know about the best products and the best approach to get your moneys worth. Let me know your budget.
+
 <!--
 **krogsater/krogsater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
