@@ -1,4 +1,4 @@
-### Emilia 🙋🏼‍♀️👩🏻‍💻
+### I am Emilia 🙋🏼‍♀️👩🏻‍💻
 
 - Business economist turned developer through working in IT and ERP for 5 years. I am passionate about process automation and creating elegant solutions driven by user feedback.
 - Easiest to reach me on [LinkedIn](https://www.linkedin.com/in/krogsater)
