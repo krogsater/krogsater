@@ -1,6 +1,8 @@
-### Welcome to my profile 🙋🏼‍♀️👩🏻‍💻
+### Emilia 🙋🏼‍♀️👩🏻‍💻
 
-- 🌱 I’m currently learning backend development with boot.dev 
+- Business economist turned developer through working in IT and ERP for 5 years. I am passionate about process automation and creating elegant solutions driven by user feedback.
+- Easiest to reach me on [LinkedIn](https://www.linkedin.com/in/krogsater)
+
 
 <!--
 **krogsater/krogsater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
