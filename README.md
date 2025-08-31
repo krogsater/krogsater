@@ -1,4 +1,4 @@
-### I am Emilia K. Krogsæter🙋🏼‍♀️👩🏻‍💻
+### hello emilia 🙋🏼‍♀️👩🏻‍💻
 
 - Computer science student @ OsloMet 
 - 5+ years of work experience in IT & Development
