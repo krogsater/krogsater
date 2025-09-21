@@ -1,4 +1,4 @@
-### hello, emilia 🙋🏼‍♀️👩🏻‍💻
+### hello, emilia
 
 - Computer science student @ OsloMet 
 - 5+ years of work experience in IT & Development
